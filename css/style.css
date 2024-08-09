@@ -1,0 +1,26 @@
+body{
+    background: url(../imagenes/sherk.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+h1{
+    background-color: rgb(127, 255, 148);
+    color: rgb(8, 39, 2);
+    font-size: 225%;
+}
+    
+p{
+    color: white;
+    font-size: 210%;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+h3{
+    color: brown;
+    font-size: 200%;
+    background-color: rgb(249, 250, 197);
+}
+    
